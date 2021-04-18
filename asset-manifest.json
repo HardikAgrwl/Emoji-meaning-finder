@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Emoji-meaning-finder/static/css/main.61bf90b8.chunk.css",
-    "main.js": "/Emoji-meaning-finder/static/js/main.32377cc8.chunk.js",
-    "main.js.map": "/Emoji-meaning-finder/static/js/main.32377cc8.chunk.js.map",
-    "runtime-main.js": "/Emoji-meaning-finder/static/js/runtime-main.c82a4c3d.js",
-    "runtime-main.js.map": "/Emoji-meaning-finder/static/js/runtime-main.c82a4c3d.js.map",
-    "static/js/2.6ff25684.chunk.js": "/Emoji-meaning-finder/static/js/2.6ff25684.chunk.js",
-    "static/js/2.6ff25684.chunk.js.map": "/Emoji-meaning-finder/static/js/2.6ff25684.chunk.js.map",
-    "static/js/3.db23ebff.chunk.js": "/Emoji-meaning-finder/static/js/3.db23ebff.chunk.js",
-    "static/js/3.db23ebff.chunk.js.map": "/Emoji-meaning-finder/static/js/3.db23ebff.chunk.js.map",
+    "main.js": "/Emoji-meaning-finder/static/js/main.abb91379.chunk.js",
+    "main.js.map": "/Emoji-meaning-finder/static/js/main.abb91379.chunk.js.map",
+    "runtime-main.js": "/Emoji-meaning-finder/static/js/runtime-main.4761619f.js",
+    "runtime-main.js.map": "/Emoji-meaning-finder/static/js/runtime-main.4761619f.js.map",
+    "static/js/2.d6e5f840.chunk.js": "/Emoji-meaning-finder/static/js/2.d6e5f840.chunk.js",
+    "static/js/2.d6e5f840.chunk.js.map": "/Emoji-meaning-finder/static/js/2.d6e5f840.chunk.js.map",
+    "static/js/3.4df3a50f.chunk.js": "/Emoji-meaning-finder/static/js/3.4df3a50f.chunk.js",
+    "static/js/3.4df3a50f.chunk.js.map": "/Emoji-meaning-finder/static/js/3.4df3a50f.chunk.js.map",
     "index.html": "/Emoji-meaning-finder/index.html",
     "static/css/main.61bf90b8.chunk.css.map": "/Emoji-meaning-finder/static/css/main.61bf90b8.chunk.css.map",
-    "static/js/2.6ff25684.chunk.js.LICENSE.txt": "/Emoji-meaning-finder/static/js/2.6ff25684.chunk.js.LICENSE.txt"
+    "static/js/2.d6e5f840.chunk.js.LICENSE.txt": "/Emoji-meaning-finder/static/js/2.d6e5f840.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c82a4c3d.js",
-    "static/js/2.6ff25684.chunk.js",
+    "static/js/runtime-main.4761619f.js",
+    "static/js/2.d6e5f840.chunk.js",
     "static/css/main.61bf90b8.chunk.css",
-    "static/js/main.32377cc8.chunk.js"
+    "static/js/main.abb91379.chunk.js"
   ]
 }
